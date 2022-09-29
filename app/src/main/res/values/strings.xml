@@ -11,5 +11,11 @@
     <string name="Email">อีเมลล์</string>
     <string name="Phone">เบอร์โทรศัพท์</string>
     <string name="Password">รหัสผ่าน</string>
-    <string name="Saveme">จดจำรหัสผ่าน</string>
+    <string name="Saveme">จดจำไว้</string>
+    <string name="back">ย้อนกลับ</string>
+    <string name="oder">สั่ง</string>
+    <string name="send">ส่ง</string>
+    <string name="delivery">จัดส่ง</string>
+    <string name="succeed">สำเร็จ</string>
+    <string name="scan">สแกน</string>
 </resources>
