@@ -1,3 +1,15 @@
 <resources>
-    <string name="app_name">Project2</string>
+    <string name="app_name">Food Delivery</string>
+    <string name="btnAdd">เพิ่มข้อมูล</string>
+    <string name="btnEdit">แก้ไขข้อมูล</string>
+    <string name="btnDelete">ลบข้อมูล</string>
+    <string name="btnSignin">เข้าสู่ระบบ</string>
+    <string name="btnSgnup">ลงชื่อเข้าระบบ</string>
+    <string name="btnRegister">สมัครสมาชิก</string>
+    <string name="name">ชื่อ</string>
+    <string name="surname">นามสกุล</string>
+    <string name="Email">อีเมลล์</string>
+    <string name="Phone">เบอร์โทรศัพท์</string>
+    <string name="Password">รหัสผ่าน</string>
+    <string name="Saveme">จดจำรหัสผ่าน</string>
 </resources>
